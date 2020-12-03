@@ -9,8 +9,8 @@ I'm Luan. I'm a Developer who is passionate about making open-source projects, c
 `Linkedin` - [Luan.Alves.in](https://www.linkedin.com/in/luan-castro-218690134/)
 
 ❤️ Support my open source projects:
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JT2EVVZXV92SA&item_name=Investimentos&currency_code=BRL)
+
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JT2EVVZXV92SA&item_name=Investimentos&currency_code=BRL)
 
 
 <!--
