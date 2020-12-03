@@ -4,17 +4,16 @@ I'm Luan. I'm a Developer who is passionate about making open-source projects, c
 
 ![Takai's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bugvoid)
 
+📫 How to reach me:
+
+`Linkedin` - [Luan.Alves.in](https://www.linkedin.com/in/luan-castro-218690134/)
+
+
+
+
+
 <!--
 **Bugvoid/Bugvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ Support my open source projects:
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
