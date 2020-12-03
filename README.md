@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm Luan. I'm a Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
+
+![Takai's Github Stats](https://github-readme-stats.vercel.app/api?username=bugvoid&show_icons=true&theme=dracula)
+
+![Takai's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bugvoid)
 
 <!--
 **Bugvoid/Bugvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
