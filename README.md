@@ -6,7 +6,7 @@ I'm Luan. I'm a Developer who is passionate about making open-source projects, c
 
 📫 How to reach me:
 
-`Linkedin` - [Luan.Alves.in](https://www.linkedin.com/in/luan-castro-218690134/)
+`Linkedin` - [Luan.Alves.in](https://www.linkedin.com/in/luan-castro-alves/)
 
 ❤️ Support my open source projects:
 
